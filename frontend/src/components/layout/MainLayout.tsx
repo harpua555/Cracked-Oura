@@ -108,7 +108,6 @@ export function MainLayout({
                                         mode="single"
                                         selected={selectedDate}
                                         onSelect={onDateChange}
-                                        initialFocus
                                     />
                                 </PopoverContent>
                             </Popover>
